@@ -7,8 +7,7 @@ It provides a simple and efficient interface for managing products, stock, and i
 
 ## 🚀 Features
 - 📦 Product listing & management  
-- 🔍 Search and filter functionality  
-- 📊 Dashboard with statistics (stock, sales, etc.)  
+- 🔍 Search and filter functionality   
 - 📝 Add / Edit / Delete products  
 - ⚡ Fast and responsive UI with React  
 - 🎨 Styled with modern UI libraries  
