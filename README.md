@@ -23,7 +23,7 @@ It provides a simple and efficient interface for managing products, stock, and i
 ---
 
 ## Demo video 
-![Main](Rag/C NM Store manager 2.0.mp4)
+![Main](Rag/C%NM%Store%manager%2.0.mp4)
 
 
 ## 📂 Project Structure
